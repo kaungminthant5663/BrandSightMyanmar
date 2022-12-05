@@ -191,7 +191,7 @@ font-weight: 620;
        margin-left: -210px;
   }
    }
-   
+
 
 
    @media (max-width: 1024px) {
@@ -220,7 +220,7 @@ font-weight: 620;
       }
        }
 
-   @media (max-width: 414px) {
+   @media (max-width: 416px) {
     #header h1 span{
       font-size: 30px !important;
    }
@@ -230,9 +230,9 @@ font-weight: 620;
     }
      }
 
-     @media (max-width: 376px) {
+     @media (max-width: 395px) {
       #header h1 a{
-        margin-left: -300px;
+        margin-right: 20px;
       }
      }
 
