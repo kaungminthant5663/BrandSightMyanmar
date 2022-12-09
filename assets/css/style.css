@@ -186,11 +186,11 @@ font-size: 37px ;
 font-weight: 620;
 }
 
-/* @media (max-width: 430px) {
+ @media (max-width: 1380px) {
   #header h1 a{
-    margin-left: 20px;
+    margin-left:-200px;
   }
-   } */
+   } 
 
 
 @media (max-width: 1280px) {
